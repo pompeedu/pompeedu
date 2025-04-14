@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello! I'm Firuzjon
 
-<!--
-**firuzjonq/firuzjonq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and aspiring Data Scientist from Russia 🇷🇺  
+I work with Python, Pandas, Plotly and Jupyter Notebooks.
 
-Here are some ideas to get you started:
+## 🔧 My Skills
+- Python & Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Visualization with Plotly
+- Google Colab & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Portfolio Projects
+- 📈 [Sales Analysis Dashboard](https://github.com/firuzjonq/sales-dashboard-project)
+
+## 💼 Looking for
+- Freelance or remote projects in data analysis or machine learning
