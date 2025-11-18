@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Firuzjon
+# 👋 Hello! I'm Firuzjon. But you can call me Pompeedu 
 
 I'm a student and aspiring Data Scientist from Russia 🇷🇺  
 I work with Python, Pandas, Plotly and Jupyter Notebooks.
