@@ -23,7 +23,6 @@
 ### *📈 [Sales Analysis Dashboard](https://github.com/pompeedu/sales-dashboard-project)*
 #### *Interactive revenue analytics with monthly trends, top products, and customer insights.*
 
-
 ### *🛒 [Online Retail Analysis Project](https://github.com/pompeedu/online-retail-analysis)*
 #### *Deep EDA on a full-year transactional dataset: customer behavior, product performance, revenue metrics.*
 
@@ -37,3 +36,7 @@
 ## 📬 Contact Me
 #### *💬 [Telegram/@pompeedu](https://t.me/pompeedu)*
 #### *✉️ [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)*
+
+## 🌍 Switch language to:
+- 🇷🇺 [Русский](ПРОЧТИ_МЕНЯ.md)
+- 🇬🇧 [English](README.md)
