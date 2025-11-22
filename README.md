@@ -1,18 +1,39 @@
-# 👋 Hello! I'm Firuzjon. 
-### But you can call me Pompeedu.
+# *👋 Hi, I'm Firuzjon — but you can call me [Pompeedu](https://t.me/pompeedu)*
+*Aspiring Data Scientist / Data Analyst focused on turning raw data into clear insights and interactive dashboards.*
+*I enjoy solving real business problems using Python, analytics, and visual storytelling.*
 
-I'm a student and aspiring Data Scientist from Russia 🇷🇺  
-I work with Python, Pandas, Plotly and Jupyter Notebooks.
-
-## 🔧 My Skills
-- Python & Data Analysis
+## 🚀 What I Do
+- Data cleaning & preprocessing
 - Exploratory Data Analysis (EDA)
-- Data Visualization with Plotly
-- Google Colab & GitHub
+- Interactive dashboards with Plotly & Streamlit
+- Business insights & reporting
+- Working with real-world datasets
 
-## 📊 Portfolio Projects
-- 📈 [Sales Analysis Dashboard](https://github.com/pompeedu/sales-dashboard-project)
-- 📈 [Online Retail Analysis Project](https://github.com/pompeedu/online-retail-analysis)
+## 🔧 Tech Stack
+### Languages & Tools:
+- Python
+- Pandas
+- Plotly
+- Jupyter / Google Colab
+- Git & GitHub
+- Streamlit, Scikit-learn
 
-## 💼 Looking for
-- Freelance or remote projects in data analysis or machine learning
+## 📊 Featured Projects
+
+### *📈 [Sales Analysis Dashboard](https://github.com/pompeedu/sales-dashboard-project)*
+#### *Interactive revenue analytics with monthly trends, top products, and customer insights.*
+
+
+### *🛒 [Online Retail Analysis Project](https://github.com/pompeedu/online-retail-analysis)*
+#### *Deep EDA on a full-year transactional dataset: customer behavior, product performance, revenue metrics.*
+
+#### *(More coming soon…)*
+
+## 🎯 Currently Looking For
+- Freelance work in analytics, dashboards, or Python-based automation
+- Remote data analysis projects
+- Opportunities to apply real business logic to real datasets
+
+## 📬 Contact Me
+#### *💬 [Telegram/@pompeedu](https://t.me/pompeedu)*
+#### *✉️ [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)*
