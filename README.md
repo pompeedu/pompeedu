@@ -26,6 +26,9 @@
 ### *🛒 [Online Retail Analysis Project](https://github.com/pompeedu/online-retail-analysis)*
 #### *Deep EDA on a full-year transactional dataset: customer behavior, product performance, revenue metrics.*
 
+### *📊 [Interactive Online Retail Dashboard](https://github.com/pompeedu/online-retail-dashboard)*
+#### *Online store transaction analysis: revenue, customer activity, sales geography, and returns. [Preview link](https://pompeedu-online-retail-dashboard.streamlit.app).*
+
 #### *(More coming soon…)*
 
 ## 🎯 Currently Looking For
