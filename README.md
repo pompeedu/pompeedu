@@ -64,5 +64,5 @@
 ---
 
 ## 🌍 Language
-- 🇬🇧 [English](../README_GB.md)
-- 🇷🇺 [Русский](../README.md)
+- 🇬🇧 [English](README_GB.md)
+- 🇷🇺 [Русский](README.md)
