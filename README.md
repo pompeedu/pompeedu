@@ -1,45 +1,86 @@
-# *👋 Hi, I'm Firuzjon — but you can call me [Pompeedu](https://t.me/pompeedu)*
-*Aspiring Data Scientist / Data Analyst focused on turning raw data into clear insights and interactive dashboards.*
-*I enjoy solving real business problems using Python, analytics, and visual storytelling.*
+# 👋 Привет! Я Фирузджон Помпиду
 
-## 🚀 What I Do
-- Data cleaning & preprocessing
-- Exploratory Data Analysis (EDA)
-- Interactive dashboards with Plotly & Streamlit
-- Business insights & reporting
-- Working with real-world datasets
+**Product Analyst**, который превращает данные в измеримые бизнес-инсайты и понятные управленческие решения.  
+Специализируюсь на анализе продуктовых и транзакционных данных, визуализации метрик и создании интерактивных дашбордов для бизнеса.
 
-## 🔧 Tech Stack
-### Languages & Tools:
-- Python
-- Pandas
-- Plotly
+---
+
+## 🚀 Чем я занимаюсь
+
+- Анализ продуктовых и транзакционных данных
+- Очистка и подготовка данных (data cleaning, preprocessing)
+- Исследовательский анализ данных (EDA)
+- Расчёт и интерпретация продуктовых и бизнес-метрик
+- Создание интерактивных дашбордов (**Streamlit, Plotly**)
+- Формирование выводов и практических рекомендаций для бизнеса
+
+---
+
+## 🔧 Технологии и инструменты
+
+### Языки и библиотеки
+- **Python**
+- **Pandas**, NumPy
+- **Plotly**
+- **Streamlit**
+- **Scikit-learn** (базовый ML)
 - Jupyter / Google Colab
 - Git & GitHub
-- Streamlit, Scikit-learn
 
-## 📊 Featured Projects
+---
 
-### *📈 [Sales Analysis Dashboard](https://github.com/pompeedu/sales-dashboard-project)*
-#### *Interactive revenue analytics with monthly trends, top products, and customer insights.*
+## 📊 Избранные проекты
 
-### *🛒 [Online Retail Analysis Project](https://github.com/pompeedu/online-retail-analysis)*
-#### *Deep EDA on a full-year transactional dataset: customer behavior, product performance, revenue metrics.*
+### 📈 [Sales Dashboard Project](https://github.com/pompeedu/sales-dashboard-project)
+**Аналитический дашборд продаж**
+- Динамика выручки и продаж
+- Топ-товары и ключевые клиенты
+- KPI и тренды для принятия решений
+- Streamlit + Plotly
 
-### *📊 [Interactive Online Retail Dashboard](https://github.com/pompeedu/online-retail-dashboard)*
-#### *Online store transaction analysis: revenue, customer activity, sales geography, and returns. [Preview link](https://pompeedu-online-retail-dashboard.streamlit.app).*
+---
 
-#### *(More coming soon…)*
+### 🛒 [Online Retail Analysis](https://github.com/pompeedu/online-retail-analysis)
+**Глубокий анализ транзакционного датасета**
+- Поведение клиентов и частота покупок
+- Эффективность ассортимента
+- Анализ выручки и возвратов
+- Подготовка данных и бизнес-инсайты
 
-## 🎯 Currently Looking For
-- Freelance work in analytics, dashboards, or Python-based automation
-- Remote data analysis projects
-- Opportunities to apply real business logic to real datasets
+---
 
-## 📬 Contact Me
-#### *💬 [Telegram/@pompeedu](https://t.me/pompeedu)*
-#### *✉️ [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)*
+### 📊 [Online Retail Dashboard](https://github.com/pompeedu/online-retail-dashboard)
+**Интерактивный продуктовый дашборд онлайн-ритейла**
+- Выручка, активность клиентов, география продаж
+- Анализ возвратов и проблемных товаров
+- Фильтры, KPI-карточки, экспорт данных  
+- **Live demo:** https://pompeedu-online-retail-dashboard.streamlit.app
 
-## 🌍 Switch language to:
-- 🇷🇺 [Русский](ПРОЧТИ_МЕНЯ.md)
-- 🇬🇧 [English](README.md)
+---
+
+### 📦 [Amazon Products Dashboard](https://github.com/pompeedu/amazon-products-dashboard)
+**Продуктовая аналитика маркетплейса Amazon**
+- Анализ цен, рейтингов, скидок и отзывов
+- Сравнение категорий и товаров
+- Корреляции, распределения, price vs rating
+- **Live demo:** https://pompeedu-amazon-items-dashboard.streamlit.app
+
+---
+
+## 🎯 Открыт к сотрудничеству
+
+- Фриланс-проекты в продуктовой и бизнес-аналитике
+- Разработка аналитических дашбордов под задачи бизнеса
+- Удалённая работа (Product Analyst | Data Analyst)
+
+---
+
+## 📬 Контакты
+- 💬 Telegram: [@pompeedu](https://t.me/pompeedu)  
+- ✉️ Email: [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
+
+---
+
+## 🌍 Language
+- 🇬🇧 [English](../README_GB.md)
+- 🇷🇺 [Русский](../README.md)
