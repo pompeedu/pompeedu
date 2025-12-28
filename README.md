@@ -23,7 +23,6 @@
 - **Pandas**, NumPy
 - **Plotly**
 - **Streamlit**
-- **Scikit-learn** (базовый ML)
 - Jupyter / Google Colab
 - Git & GitHub
 
