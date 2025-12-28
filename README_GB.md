@@ -83,5 +83,5 @@ I work with product and transactional data, helping businesses understand perfor
 ---
 
 ## 🌍 Language
-- 🇬🇧 [English](../README_GB.md)
-- 🇷🇺 [Русский](../README.md)
+- 🇬🇧 [English](README_GB.md)
+- 🇷🇺 [Русский](README.md)
