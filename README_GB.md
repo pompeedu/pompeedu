@@ -23,7 +23,6 @@ I work with product and transactional data, helping businesses understand perfor
 - **Pandas**, NumPy
 - **Plotly**
 - **Streamlit**
-- **Scikit-learn** (basic ML)
 - Jupyter / Google Colab
 - Git & GitHub
 
